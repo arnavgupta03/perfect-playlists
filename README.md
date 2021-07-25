@@ -4,8 +4,8 @@
 [Perfect Playlists](https://perfectplaylists.glitch.me/) is a website that contains AI-generated playlists, based on the top 250 user-generated playlists in Spotify for that genre. 
 
 #### What I used to make it (and what you'll need to make your own)
-- Python - to gather playlist and track data, clean data for the model, and to generate usable track URIs
 - MATLAB - to prepare the data for the model, create and train the model, and generate new playlists
+- Python - to gather playlist and track data, clean data for the model, and to generate usable track URIs
 - React - to create the web app that displays all the playlists
 - Spotify API and Web Console - to get the playlist and track data and to make the playlists
 
@@ -22,3 +22,5 @@ By modifying an character-based LSTM RNN to run on Spotify track ids, I created 
 6. On Spotify, create a playlist and get the playlist ID.
 7. Open the file with the track URIs. Also, open the Spotify Web Console for _Add Items to a Playlist_. Generate a token and paste the playlist URI as well as the track URIs into the console. Run the console.
 8. Listen and enjoy your AI-generated playlist.
+
+Note: the app folder contains the code for the web app only.

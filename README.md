@@ -1,7 +1,7 @@
 # Perfect Playlists
 ### _Only The Best AI Generated Playlists_
 
-[Perfect Playlists](https://perfectplaylists.glitch.me/) is a website that contains AI-generated playlists, based on the top 250 user-generated playlists in Spotify for that genre. 
+[Perfect Playlists](https://perfectplaylists.glitch.me/) is a website that contains AI-generated playlists, based on the top 250 user-generated playlists in Spotify for that genre. The playlists were made using the MATLAB Deep Learning Toolbox.
 
 #### What I used to make it (and what you'll need to make your own)
 - MATLAB - to prepare the data for the model, create and train the model, and generate new playlists
